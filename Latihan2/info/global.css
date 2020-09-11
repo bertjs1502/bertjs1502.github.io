@@ -1,0 +1,56 @@
+* {
+	margin: 5px;
+	padding: 0;
+}
+
+main {
+	margin-top:1vh;
+	width: 1800px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+main section {
+	width: 11.95%;
+	height: 20vh;
+	margin-right: 5px;
+	float: left;
+	background-color: #003d3d;
+}
+
+main section.b {
+	width: 24.4%;
+	background-color: #e66000;
+}
+
+main section.c {
+	width: 24.4%;
+	background-color: #9e9e9e;
+}
+
+main section.d1 {
+	width: 24.4%;
+	height: 28vh;
+	background-color: #9e9e9e;
+}
+
+main section.d2 {
+	width: 24.4%;
+	height: 22vh;
+	margin-top: 6.5vh;
+	background-color: #ababab;
+}
+
+main section.d3 {
+	width: 24.4%;
+	height: 16vh;
+	margin-top: 12.5vh;
+	background-color: #b8b8b8;
+}
+
+main section.d4 {
+	width: 24.4%;
+	height: 10vh;
+	margin-top: 18.5vh;
+	background-color: #d9d9d9;
+}
