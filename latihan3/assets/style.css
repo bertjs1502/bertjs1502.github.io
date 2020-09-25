@@ -1,0 +1,199 @@
+*{
+	padding: auto;
+}
+main {
+	width: 80vw;
+	margin: auto;
+	padding: 10px;
+}
+div.row {
+	display: flex;
+}
+
+div.column {
+	flex: 50%;
+	padding: 10px;
+	height: 300px;
+}
+header.title {
+	width: 400px;
+	padding: 10px;
+	background-color: #093B3C;
+	font-size: 20pt;
+	font-family: GT America;
+	font-weight: bold;
+	color: #FF8501;
+}
+table {
+	border-collapse: collapse;
+	margin-top: 10px;
+	margin-left: 40px;
+}
+section.table thead {
+background-color: #093B3C;
+}
+
+section.table tr th:nth-child(1) {
+	color: #FF8501;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-top: 7px;
+	width: 60px;
+	font-family: Helvetica;
+	font-weight: 400;
+	border-right: 1px solid white;
+}
+section.table thead tr th:nth-child(2) {
+	color: #FF8501;
+	padding-left: 10px;
+	padding-bottom: 25px;
+	padding-top: 7px;
+	width: 80px;
+	font-family: Helvetica;
+	font-weight: 400;
+	border-right: 1px solid white;
+}
+section.table thead tr th:nth-child(3) {
+	color: #FF8501;
+	padding-left: 7px;
+	padding-bottom: 25px;
+	padding-top: 5px;
+	width: 60px;
+	font-family: Helvetica;
+	font-weight: 400;
+}
+section.table thead tr th {
+	text-align: left;
+	font-family: Helvetica,
+	font-weight: normal;
+	padding-top: 7px;
+	padding-bottom: 7px;
+	padding-left: 5px;
+	padding-right: 5px;
+}
+
+section.table tbody tr td {
+	text-align: left;
+}
+
+section.table tbody tr td:nth-child(1) {
+	color: black;
+	padding-left: 5px;
+	padding-bottom: 5px;
+	padding-top: 5px;
+	width: 60px;
+	font-family: Helvetica;
+	border-left: 1px solid grey;
+	border-bottom: 1px solid grey;
+}
+
+section.table tbody tr td:nth-child(2) {
+	padding-left: 5px;
+	padding-bottom: 36px;
+	width: 230px;
+	font-family: Helvetica;
+	border-left: 1px solid grey;
+	border-bottom: 1px solid grey;
+
+}
+
+section.table tbody tr td:nth-child(3) {
+	padding-left: 7px;
+	padding-bottom: 36px;
+	width: 45px;
+	font-family: Helvetica;
+	border-left: 1px solid grey;
+	border-bottom: 1px solid grey;
+	border-right: 1px solid grey;
+
+}
+
+div.header {
+	margin-top: 32px;
+	font-family: Helvetica;
+	font-weight: bold;
+	font-size: 17pt;
+	color: #093B3C;
+	margin-right: 10px;
+}
+
+div.header hr {
+	height: 3px;
+	color: #093B3C;
+	background-color: #093B3C;
+}
+div.header h1 {
+	margin-bottom: -10px;
+}
+
+section.content {
+	font-family: Helvetica;
+}
+
+div.indent {
+	margin-left: 20px;
+}
+
+header.title2 {
+	font-size: 20pt;
+	font-weight: bold;
+	margin-left: 535px;
+	font-family: GT America;
+	font-weight: bold;
+	color: #093B3C;
+}
+
+header.subtitle2 {
+	font-size: 100pt;
+	font-family: GT America;
+	font-weight: bolder;
+	margin-left: 565px;
+	color: #093B3C;
+}
+
+section.service {
+	background-color: #FF8501;
+	width: 230px;
+	height: 70px;
+	margin-left: 475px;
+	border-radius: 10px;
+	font-family: helvetica;
+	font-weight: bold;
+	text-align: left;
+	padding-left: 15px;
+	padding-top: 15px;
+	color: #093B3C ;
+}
+section.table2 {
+	float:left;
+	margin-left: 180px;
+	margin-top: 30px;
+}
+section.table2 thead {
+	border-bottom: 3px solid black;
+	font-family: helvetica;
+	font-size: 17pt;
+	padding-right: 80px;
+
+}
+
+section.table2 tbody tr td:nth-child(1) {
+	font-family: helvetica;
+	font-size: 30pt;
+	padding-top: 20px;
+	padding-right: 20px;
+	}
+
+section.table2 tbody tr td:nth-child(2) {
+	font-family: helvetica;
+	font-weight: 400;
+	padding-top: 20px;
+	padding-right: 250px;
+
+}
+
+img {
+ width: 40px;
+ height: 40px;
+ float: right;
+}
