@@ -1,0 +1,90 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+@media only screen and (max-width: 340px) {}
+
+main {
+	width: 90vw;
+	margin: 0 auto;
+	padding: 0px;
+	padding-top: 100px;
+}
+
+@import url("https://use.typekit.net/glk2jnb.css");
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,600;1,300&display=swap');
+
+
+h1 {
+	text-align: left;
+	font-family: Grad, serif;
+	font-size: 2.849em;
+	font-weight: 700;
+	margin-bottom: 10px;
+}
+
+h2 {
+	text-align: left;
+	font-family: Open, Sans-serif;
+	font-size: 1em;
+	font-weight: 700;
+	margin-bottom:0px;
+}
+
+h3 {
+	font-family: Grad, serif;
+	font-size: 1.563em;
+	font-weight: 700;
+	padding-top: 30px;
+}
+
+h4 {
+	font-family: Open, Sans-serif;
+	font-weight: 400;
+	font-style: italic;
+	font-size: 0.549em;
+	padding-top: 20px;
+	text-align: center;
+}
+
+p {
+	font-family: Open, Sans-serif;
+	font-weight: 400;
+	font-size: 0.741em;
+	padding-top: 15px;
+
+}
+
+ol li {
+	margin-top: 5px;
+	margin-left:0.741em;
+	font-family: Open, Sans-serif;
+	font-size: 0.741em;
+	font-weight: 600;
+}
+
+li p {
+	font-family: Open, Sans-serif;
+	font-size: 1em;
+	font-weight: 400;
+	margin-left: 20px;
+}
+
+.end {
+	font-family: Open, Sans-serif;
+	font-size: 0.741em;
+	font-weight: 400;
+	margin-left:30px;
+}
+
+
+table tr th {
+	font-family: Open, Sans-serif;
+	font-size: 0.741em;
+	font-weight: 400;
+}
+table tr td {
+	font-family: Open, Sans-serif;
+	font-size: 0.549em;
+	font-weight: 400;
+}
