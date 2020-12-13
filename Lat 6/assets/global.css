@@ -1,0 +1,806 @@
+*{
+  margin: 0;
+  padding:0;
+}
+
+.wwd {
+  width: 125px;
+  height: auto;
+  float: left;
+  margin-left: 350px;
+  margin-top: 5px;
+
+}
+.topnav {
+  position: fixed;
+  background-color: #000000;
+  width: 100%;
+  opacity: 95%;
+}
+
+.topnav a {
+  margin-top: 10px;
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 20px;
+  padding: 15px 35px;
+}
+
+.Home { 
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../assets/Image/hp.jpg"); 
+  background-size: cover;
+}
+.title1 {
+    padding-top: 180px;
+    width: 100%;
+}
+.title2 {
+    width: 100%;
+}
+.title2 h1 {
+    color: #FBDF06;
+}
+
+.march {
+    width: 30%;
+    margin-left: 60%;
+    text-align: right;
+}
+
+.march h2 {
+    color: #ffffff;
+}
+
+.march  h3 {
+    font-weight: 300;
+    color: #FBDF06;
+}
+
+.Spread2 {
+  width: 100%;
+  height: 2673px;
+  background-color: #000000
+}
+
+.Spread2 h1 {
+  font-weight: 400;
+  font-size: 93px;
+  padding-top: 228px;
+  margin-bottom: 150px;
+}
+
+.AboutUs {
+  width: 1371px;
+  height: 532px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FBDF06;
+  border-radius: 45px;
+  margin-bottom: 45px;
+}
+.AboutUsImage {
+  float: left;
+  width: 643px;
+  height: 493px;
+  margin: 20px 20px 0px 20px;
+}
+.AboutUsImage img {
+  width: 100%;
+  height: 100%;
+}
+
+.AboutUsText {
+  float: left;
+  margin-top: 40px;
+  padding-left: 25px;
+  width: 500px;
+  height: 433px;
+}
+.AboutUsText h2 {
+  font-size: 67.5px;
+  margin-bottom: 20px;
+}
+
+.AboutUsButton {
+  float: left;
+  width: 58px;
+  height: 86px;
+}
+
+.AboutUsButton img {
+  width: 100%;
+  height: 100%;
+  margin-left: 56px;
+  margin-top: 223px;
+}
+
+.Line2 {
+  width: 1371px;
+  height: 445px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 228px;
+}
+
+.Box {
+  float: left;
+  width: 486px;
+  height: 445px;
+  background-color: #FBDF06;
+  border-radius: 20px;
+  margin-right: 45px;
+}
+
+.Image {
+  width: 449px;
+  height: 246px;
+  margin: 18px 18px;
+}
+
+.Image img {
+  width: 100%;
+  height: 100%;
+}
+
+.Name {
+ margin-left: 45px;
+}
+
+
+.ReadMore {
+  width: 117px;
+  height: 44px;
+  float: right;
+  margin-right: 18px;
+  border-radius: 14px;
+  background-color: #000000;
+
+}
+.ReadMore p {
+  padding: 10px;
+  color: #ffffff;
+  text-align: center;
+  margin-right: 0;
+}
+
+.Events {
+  float: left;
+  width: 309px;
+  height: 109px;
+  background-color: #FBDF06;
+  border-radius: 14px;
+}
+
+.EventsText {
+  float: left;
+  padding: 15px 15px;
+}
+
+.EventsButton {
+  float: right;
+  width: 60px;
+  height: 60px;
+  padding-top: 24px;
+  padding-right: 24px;
+}
+
+.EventsButton img{
+  width: 100%;
+  height: 100%;
+}
+
+.Line3 {
+  width: 1371px;
+  height: 625px;
+  margin-right:auto;
+  margin-left: auto; 
+
+}
+
+.Line3Image {
+  width: 1371px;
+  height: 503px;
+  background-color: #DD2F27;
+  margin-right:auto;
+  margin-left: auto; 
+  border-radius: 45px;
+}
+
+.Line3Image img{
+  width: 1200px;
+  height: 325px;
+  padding: 80px 80px;
+}
+
+.Line3Text {
+  width: 100%
+  height: 122px;
+  padding: 40px 375px;
+}
+
+.Line3Text p {
+  font-family: Libre Baskerville;
+  margin-left: 10px;
+  font-size: 42px;
+  font-weight: 400;
+  float: left;
+  color: #ffffff;
+} 
+
+.Footer {
+  width: 100vw;
+  height: 305px;
+  background-color: #ffffff;
+}
+
+.Partners {
+  padding-top: 20px;
+  text-align: center;
+}
+
+.Logos {
+  padding: 20px;
+  margin: 0 auto;
+  width: 326px;
+  height:150px;
+}
+
+.LogoWWF {
+  float: left;
+  width: 80px;
+  height: 80px;
+  margin-left: 30px;
+  padding-top: 20px;
+
+}
+
+.LogoWWF img {
+  width:100%;
+  height:100%;
+}
+
+.LogoUNDP {
+  float: left;
+  padding-left: 20px;
+  padding-top: 10px;
+  width: 52px;
+  height: 100px;
+}
+
+.LogoUNDP img {
+  width:100%;
+  height:100%;
+}
+
+.LogoSOS {
+  float: right;
+  width: 117px;
+  height: 71px;
+}
+
+.LogoSOS img {
+  padding-top: 30px;
+  width:100%;
+  height:100%;
+}
+
+
+.designed p {
+  font-size: 13px;
+  font font-family: Roboto;
+  font-weight: 500;
+  color: #000000;
+  text-align: center;
+}
+
+.AboutUsHome {
+  width: 100vw;
+  height: 716px;
+  color: #ffffff;
+}
+
+.AboutUsHome img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 10%;
+  width: 50%;
+}
+
+.AboutUsContent {
+  width: 100%;
+  height: 1356px;
+  background-color: #FBDF06;
+}
+
+.AUImage {
+  float: left;
+  margin-left: 125px;
+  margin-right: 25px;
+  width: 753px;
+  height: 1156px;
+  margin-top: 45px;
+}
+
+.AUImage img {
+  width: 100%;
+  height: 100%;
+}
+
+.AUText {
+  float: left;
+  padding-left: 20px;
+  padding-top: 45px;
+  width: 690px;
+  height: 1311px;
+}
+
+.AUText h1{
+  font-weight: 400;
+  color: #000000;
+  margin-bottom: 45px;
+}
+
+.GetInvolvedHome {
+  width: 100vw;
+  height: 1010px;
+  color: #ffffff;
+}
+
+.GIText {
+  padding: 150px;
+  text-align: center;
+}
+
+.GIText p {
+  text-align: center;
+  font-size: 150px;
+  font-weight: 900;
+  color: #FBDF06;
+  margin-bottom: 45px;
+}
+
+.GIText h3{
+  font-weight: 400;
+}
+
+.GISpread {
+  width:100vw;
+  height: 6520px;
+  background-color: #FBDF06;
+}
+
+.GISpread h5 {
+  font-size: 45px;
+  font-weight: 900;
+  text-align: center;
+  color: #000000;
+  padding-top: 150px;
+  margin-bottom: 150px;
+}
+
+.GIContent {
+  padding-left: 228px;
+  padding-right: 228px;
+}
+
+.GICBox {
+  width: 851px;
+  height: 176px;
+  border-radius: 39px;
+  background-color: #000000;
+  margin-bottom: 67.5px;
+
+}
+
+.CBoxNumber h4 {
+  float: left;
+  color: #ffffff;
+  font-weight: 900;
+  padding-left: 45px;
+}
+
+.CBoxText {
+  float: left;
+  padding: 20px 25px;
+  width: 650px;
+  height: 100px;
+}
+.CBoxText p {
+  width: 100%;
+  height: 100%;
+  float: left;
+  color: #ffffff;
+}
+
+.CBoxText2 {
+  float: left;
+  padding: 40px 25px;
+  width: 550px;
+  height: 100px;
+}
+
+.CBoxText2 p {
+  width: 100%;
+  height: 100%;
+  float: left;
+  color: #ffffff;
+}
+
+.position1 {
+  padding-left: 400px;
+}
+
+.position2 {
+  padding-left: 200px;
+}
+
+.subspread h5 {
+  font-size: 100px;
+}
+
+.subspread h3 {
+  font-weight: 400;
+ text-align: center;
+ margin-bottom: 150px;
+}
+
+.sscontent {
+  width: 1370px;
+  height: 580px;
+  background-color: #000000;
+  border-radius: 45px;
+  margin-bottom: 150px;
+}
+
+.ssctextleft {
+  float: left;
+  width: 600px;
+  height: 490px;
+  padding-top: 68px;
+  padding-left: 45px;
+  margin-right: 20px;
+}
+
+.ssctextleft p {
+  color: #ffffff;
+}
+
+.ssctextright {
+  float: left;
+  width: 600px;
+  height: 490px;
+  padding-top: 68px;
+  padding-left: 45px;
+}
+
+.ssctextright p {
+  color: #ffffff;
+}
+
+.Closing h2 {
+  text-align: center;
+  margin-bottom: 45px
+}
+
+.closingbar {
+  width: 1370px;
+  height: 100px;
+  background-color: #000000;
+  border-radius: 30px;
+  margin-bottom: 45px;
+
+}
+
+.closingbar h3 {
+  color: #ffffff;
+  text-align: center;
+  font-weight: 300;
+  padding-top: 30px;
+
+}
+
+.Closing h3 {
+  text-align: center;
+}
+
+@media only screen and (max-width: 375px) {
+.topnav {
+  position: fixed;
+  background-color: #000000;
+  width: 0;
+  opacity:0;
+}
+
+.topnav a {
+  margin-top: 0px;
+  float: left;
+  color: #ffffff;
+  text-align: center;
+  text-decoration: none;
+  font-family: Roboto;
+  font-weight: 300;
+  font-size: 0;
+  padding: 0;
+}
+.Home { 
+  width: 100vw;
+  height: 100vh;
+  background-image: url("../assets/Image/hp2.jpg"); 
+}
+
+.title1 {
+    padding-top: 180px;
+    width: 100%;
+}
+.title2 {
+    width: 100%;
+}
+.title2 h1 {
+    color: #FBDF06;
+}
+.march {
+    width: 50%;
+    margin-left: 40%;
+    text-align: right;
+    margin-top: 20%;
+}
+
+.march h2 {
+    color: #ffffff;
+}
+
+.march  h3 {
+  font-size: 16px;
+    font-weight: 300;
+    color: #FBDF06;
+}
+
+
+.Spread2 {
+  width: 100%;
+  height: 2000px;
+  background-color: #000000
+}
+
+.Spread2 h1 {
+  font-weight: 400;
+  font-size: 32px;
+  padding-top: 100px;
+  margin-bottom: 50px;
+}
+
+.AboutUs {
+  width: 312px;
+  height: 708px;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: #FBDF06;
+  border-radius: 17px;
+  margin-bottom: 30px;
+}
+.AboutUsImage {
+  float: left;
+  width: 282px;
+  height: 188px;
+  margin: 15px 15px 0px 15px;
+}
+.AboutUsImage img {
+  width: 100%;
+  height: 100%;
+}
+
+.AboutUsText {
+  float: left;
+  margin-top: 20px;
+  padding-left: 15px;
+  width: 282px;
+  height: 408px;
+}
+.AboutUsText h2 {
+  font-size: 32px;
+  margin-bottom: 15px;
+  font-weight: 900;
+  text-align: center;
+}
+
+.AboutUsButton {
+  float: left;
+  width: 0px;
+  height: 0px;
+}
+
+.AboutUsButton img {
+  width: 0;
+  height: 0;
+}
+
+.Line2 {
+  width: 312px;
+  height: 785px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 50px;
+}
+
+.Box {
+  float: left;
+  width: 312px;
+  height: 305px;
+  background-color: #FBDF06;
+  border-radius: 20px;
+  margin-right: 45px;
+  margin-bottom: 30px;
+}
+
+.Image {
+  width: 282px;
+  height: 186px;
+  margin: 15px 15px;
+}
+
+.Image img {
+  width: 100%;
+  height: 100%;
+}
+
+.Name {
+ margin-left: 24px;
+}
+
+
+.ReadMore {
+  width: 100px;
+  height: 30px;
+  float: right;
+  margin-right: 10px;
+  border-radius: 10px;
+  background-color: #000000;
+  margin-top: -30px;
+
+}
+.ReadMore p {
+  padding-top: 5px;
+  color: #ffffff;
+  text-align: center;
+  margin-right: 0;
+}
+
+.Events {
+  float: left;
+  width: 309px;
+  height: 109px;
+  background-color: #FBDF06;
+  border-radius: 14px;
+}
+
+.EventsText {
+  float: left;
+  padding: 15px 15px;
+}
+
+.EventsButton {
+  float: right;
+  width: 60px;
+  height: 60px;
+  padding-top: 24px;
+  padding-right: 24px;
+}
+
+.EventsButton img{
+  width: 100%;
+  height: 100%;
+}
+
+.Line3 {
+  width: 375px;
+  height: 175px;
+  margin-right:auto;
+  margin-left: auto; 
+
+}
+
+.Line3Image {
+  width: 312px;
+  height: auto;
+  background-color: #DD2F27; 
+  border-radius: 16px;
+  margin-bottom: 20px;
+}
+
+.Line3Image img{
+  width: 282px;
+  height: auto;
+  padding: 10px 10px;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.Line3Text {
+  width: 312px;
+  height: 50px;
+  padding: 0;
+  float: left;
+  margin-left: 70px;
+}
+
+.Line3Text p {
+  font-family: Libre Baskerville;
+  margin-left: 5px;
+  font-size: 16px;
+  font-weight: 400;
+  float: left;
+  color: #ffffff;
+} 
+.Footer {
+  width: 100vw;
+  height: 140px;
+  background-color: #ffffff;
+}
+
+.Partners {
+  padding-top: 0px;
+  text-align: center;
+}
+
+.Logos {
+  padding: 0px;
+  margin: 0px;
+  width: 312px;
+  height:80px;
+}
+
+.LogoWWF {
+  float: left;
+  width: 40px;
+  height: 40px;
+  margin-left: 40%;
+
+}
+
+.LogoWWF img {
+  width:100%;
+  height:100%;
+}
+
+.LogoUNDP {
+  float: left;
+  padding-left: 10px;
+  width: 25px;
+  height: 50px;
+  padding-top: 10px;
+}
+
+.LogoUNDP img {
+  width:100%;
+  height:100%;
+}
+
+.LogoSOS {
+  float: right;
+  width: 49px;
+  height: 30px;
+  margin-right: 15%;
+}
+
+.LogoSOS img {
+  padding-top: 20px;
+  width:100%;
+  height:100%;
+}
+
+
+.designed p {
+  font-size: 7.5px;
+  font font-family: Roboto;
+  font-weight: 500;
+  color: #000000;
+  text-align: center;
+  margin-bottom: 5px;
+}
