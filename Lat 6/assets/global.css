@@ -3,14 +3,6 @@
   padding:0;
 }
 
-.bar1 .bar2 .bar3{
-width: 35px;
-  height: 5px;
-  background-color: white;
-  margin: 6px 0;
-  z-index: 100;
-}
-
 .wwd {
   width: 125px;
   height: auto;
